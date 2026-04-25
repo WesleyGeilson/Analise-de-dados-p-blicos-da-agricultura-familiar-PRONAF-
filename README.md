@@ -24,8 +24,26 @@ Confira abaixo algumas das políticas públicas existentes:
 
 
 #### Site de retirada dos dados: https://www.bcb.gov.br/estabilidadefinanceira/micrrural
-
+#### Site de retirada dos dados: https://www.bnb.gov.br/acesso-a-informacao/dados-de-contratacoes/contratacoes-fne
+#### Codigos do pronaf: https://www.bcb.gov.br/content/estabilidadefinanceira/sicornoticias/finalidadesAdmitidasPronaf.pdf
 ---
 
+## Informações sobre os dados que são interesssantes de se conhecer:
 
-Quais perguntas podem ser interessantes de ser resolver ?
+#### 1. O codigo do PRONAF é o: 0001
+#### 2. O codigo do PRONAF-Microcrédito é :0056
+#### 3. O PRONAF Grupo B implica em concessão de crédito ao microagricultor (Renda de 23.000 até 50.000 anual)
+
+
+
+
+
+
+### Quais perguntas podem ser interessantes de ser resolver ?
+
+- Regiões que recebem mais ou menos
+- Politicas de grandes agricultores e de pequenos agricultores
+- Houve aumento ou redução orcamentaria? Esse aumento ou redução, gerou impacto positivo ou negativo (Uso de hipotese nula e alternativa)
+- Todo dinheiro destinado é usado? 
+- Realizar uma analise temporal 
+
