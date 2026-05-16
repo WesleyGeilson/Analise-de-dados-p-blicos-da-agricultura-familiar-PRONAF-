@@ -45,5 +45,7 @@ Confira abaixo algumas das políticas públicas existentes:
 - Politicas de grandes agricultores e de pequenos agricultores
 - Houve aumento ou redução orcamentaria? Esse aumento ou redução, gerou impacto positivo ou negativo (Uso de hipotese nula e alternativa)
 - Todo dinheiro destinado é usado? 
-- Realizar uma analise temporal 
+- Realizar uma analise temporal
+- Analise sobre os subprogramas
+- Analisar o ambito regional (Juazeiro do norte, crato, barbalha)
 
